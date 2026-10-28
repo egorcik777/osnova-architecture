@@ -1,0 +1,352 @@
+[
+  {
+    "name": "apartments-1100.webp",
+    "bytes": 206184,
+    "sha256": "c0a71c560fd449cd185cfe0e725d30475ca659f75a22f9413175ab753b8f4f0e"
+  },
+  {
+    "name": "apartments-1800.webp",
+    "bytes": 316020,
+    "sha256": "8c08c304fb0fe7fa7c5ccc7a5e207555ff8d043ebbc3e5484f9311b125e1fa38"
+  },
+  {
+    "name": "apartments-420.webp",
+    "bytes": 36512,
+    "sha256": "8cea1064f053a11034d12207da2c81f594d1912e4f456b403b4d83155907c323"
+  },
+  {
+    "name": "apartments-700.webp",
+    "bytes": 118784,
+    "sha256": "249ec0e94f512a5fd0e691d927a6487b7756244deb518441a9fa7a89e7ea2980"
+  },
+  {
+    "name": "courtyard-1100.webp",
+    "bytes": 133914,
+    "sha256": "e650a7c6189f08b515d263c760f5119abb123a2e2d84f22388829ab46f40247f"
+  },
+  {
+    "name": "courtyard-1800.webp",
+    "bytes": 410048,
+    "sha256": "b5c5d46e173c1d5e82de08d8fde55952ac08dae44f030152be97657ae55fd843"
+  },
+  {
+    "name": "courtyard-420.webp",
+    "bytes": 19214,
+    "sha256": "2f813b58911898c7315ff400b70655da1d9381f1b84d1af56042f0a6ff349bb2"
+  },
+  {
+    "name": "courtyard-700.webp",
+    "bytes": 61154,
+    "sha256": "45451289edde04dedaae798b30b3fb13ef6d0981e87cfefc69303884a3ac30b2"
+  },
+  {
+    "name": "detail-1100.webp",
+    "bytes": 73084,
+    "sha256": "59fe8811678cf1b407459217947493493d18da740c5705e8f7e2466dc60a07c4"
+  },
+  {
+    "name": "detail-1800.webp",
+    "bytes": 125682,
+    "sha256": "8939ab2f69a90a413fb294ae241ee9bc337fd1793933e81ad3359b798c67c7f0"
+  },
+  {
+    "name": "detail-420.webp",
+    "bytes": 17342,
+    "sha256": "2ecf25918b43f9cdba70ebb36d9d3703a2ea48020f0ad25067ca8225f8fc7ec6"
+  },
+  {
+    "name": "detail-700.webp",
+    "bytes": 45324,
+    "sha256": "60f9c618b698ef06068b0cd19b3ff84708068de0427e58d9a19dbcf1f44f6916"
+  },
+  {
+    "name": "golos-0.ttf",
+    "bytes": 64240,
+    "sha256": "7c255885e99e7df35f846074e6b780ee166a725e565e3a67f760dd12f4e5b77a"
+  },
+  {
+    "name": "golos-1.ttf",
+    "bytes": 64232,
+    "sha256": "6dd89b893d2534ebb655520f2a1ac9258007af1a0daf4b8a32763f13b47fad4a"
+  },
+  {
+    "name": "golos-2.ttf",
+    "bytes": 64308,
+    "sha256": "1d38fc3b3f03e9f22003bbf360e4cd58e8890f81e65f9a98b3773a0199ba4354"
+  },
+  {
+    "name": "golos-3.ttf",
+    "bytes": 64160,
+    "sha256": "8b9ab44deba060e3f7a1a60bd2d8b19c4bab581e85c2e1f150a1e73a4f6aa8b4"
+  },
+  {
+    "name": "golos-4.ttf",
+    "bytes": 64272,
+    "sha256": "90c301a248ab2ef41a2ac82fccae3aa39485905f203be4adc9fe68bce5864059"
+  },
+  {
+    "name": "hero-1100.webp",
+    "bytes": 166186,
+    "sha256": "6f9a9064abeb492dea8359e660c9122a5c89b16f378f9c90556935508e635077"
+  },
+  {
+    "name": "hero-1800.webp",
+    "bytes": 187964,
+    "sha256": "f3481468a47acffd9cd34383d0defb7168b465f023ae77fd79e3f2cdd1a979a2"
+  },
+  {
+    "name": "hero-420.webp",
+    "bytes": 51830,
+    "sha256": "4072717026d52a97eef6479a89351e8d157864826e20dac9d066c843b359dc19"
+  },
+  {
+    "name": "hero-700.webp",
+    "bytes": 161168,
+    "sha256": "13ef1b5e86b34193c09ecac20a4111a3638a2a6204188e781ff33b5afc219533"
+  },
+  {
+    "name": "home-1100.webp",
+    "bytes": 139324,
+    "sha256": "9a4713623baa8a57b3fc4413fc51bd4f1c349f3a8bcd8ea87389c743cd6626b5"
+  },
+  {
+    "name": "home-1800.webp",
+    "bytes": 303818,
+    "sha256": "aa2c81d49468a6f025de2d12dddde84bb31a883a713153b22e123a9881a2f764"
+  },
+  {
+    "name": "home-420.webp",
+    "bytes": 25994,
+    "sha256": "8da12f0f7fb40b46d1b5327681304321c1b3027845b0f4c310d46bab532da7d7"
+  },
+  {
+    "name": "home-700.webp",
+    "bytes": 74922,
+    "sha256": "7082888e0828a89010fda451e76f87e0dfecc19817a1946d98def4246b15fda9"
+  },
+  {
+    "name": "houseinside-1100.webp",
+    "bytes": 237960,
+    "sha256": "543d685b5e4a496f3a721a3cf574f5b6dd9de9c90f4a1f56e0ea008b78ea724f"
+  },
+  {
+    "name": "houseinside-1800.webp",
+    "bytes": 704334,
+    "sha256": "fb9b0fe79903e8a7676046636d66c8a2918a948a2e21aa6654aef19e5c8f23f7"
+  },
+  {
+    "name": "houseinside-420.webp",
+    "bytes": 30916,
+    "sha256": "d5938a548829bdf645e682125b64da427c32ea912a7990d738585aa68e30dd96"
+  },
+  {
+    "name": "houseinside-700.webp",
+    "bytes": 103954,
+    "sha256": "925c9a0e2b9cab8aa2bbf46af9b4ec8e5b18cbd303a1f5f0052b68df93e768c5"
+  },
+  {
+    "name": "housewide-1100.webp",
+    "bytes": 245140,
+    "sha256": "81b0e53414a93716a2bd671b86abc930a607044efa22337604684be4da164256"
+  },
+  {
+    "name": "housewide-1800.webp",
+    "bytes": 679382,
+    "sha256": "cd1d7eff05197e8eb8ed518c2735c99300f980b9bbe1fe56919c1379c404ca4c"
+  },
+  {
+    "name": "housewide-420.webp",
+    "bytes": 37628,
+    "sha256": "117864144e310a5d32e0dc4f93c6e15876e1abbdace9f88568e2c0fe40f70938"
+  },
+  {
+    "name": "housewide-700.webp",
+    "bytes": 114044,
+    "sha256": "1e2378a5b6a78596e36a3edc12c172f6c45340ebca07e002b48c3717507b619a"
+  },
+  {
+    "name": "housing-1100.webp",
+    "bytes": 60672,
+    "sha256": "e20445914e62b842457d4142fee991a7ced98d5a59b4b6aea0cc69714d7127e7"
+  },
+  {
+    "name": "housing-1800.webp",
+    "bytes": 137484,
+    "sha256": "83929b042822c20b44c7ec6d4fd537ae109bfd5f793156b1ea2d4fa1ff520e69"
+  },
+  {
+    "name": "housing-420.webp",
+    "bytes": 15142,
+    "sha256": "2e1a64cc6d42adbd99f40d31259f246497f606aa649984f632634896134eadf9"
+  },
+  {
+    "name": "housing-700.webp",
+    "bytes": 36890,
+    "sha256": "987ec299f30f8bd734b174aea27c27430fcabfe2bd73a431f9002a069e8cf994"
+  },
+  {
+    "name": "interior-1100.webp",
+    "bytes": 98062,
+    "sha256": "c289078051e82b68252fadb9e2d2cc8e68429793d66d0dc1bb86615e2b0af38b"
+  },
+  {
+    "name": "interior-1800.webp",
+    "bytes": 207888,
+    "sha256": "eaf5bdb8259c5119dbcab27396486732e941f6eca1f12307acdb638f28589215"
+  },
+  {
+    "name": "interior-420.webp",
+    "bytes": 22326,
+    "sha256": "a700281d89a1d670b6b3a44f9944292f7a3f4447f20dca0c59e8a973c8e1cfe6"
+  },
+  {
+    "name": "interior-700.webp",
+    "bytes": 56474,
+    "sha256": "d72776fa573a4501c138922c32f1354e989704ec205c63d75cc69e064f2e0857"
+  },
+  {
+    "name": "mark.svg",
+    "bytes": 206,
+    "sha256": "d3bb00b7e41d0aaab00f77f250f0ff4d31a5843a81a192bffa0cd19a7aaa5034"
+  },
+  {
+    "name": "museum-1100.webp",
+    "bytes": 125550,
+    "sha256": "12c09ab0fc85224296db28d9326b034ccc16cc1a2287f4f913c142d66341e10b"
+  },
+  {
+    "name": "museum-1800.webp",
+    "bytes": 341690,
+    "sha256": "6987c617b00e246834d7f0b3e7f31330bcaa3a737f7f36120f5c725f85e5f8a6"
+  },
+  {
+    "name": "museum-420.webp",
+    "bytes": 20632,
+    "sha256": "5b6d8c47d55fddd1283eaaca840bf22066139f1fde92034d6692cf40121b3c5a"
+  },
+  {
+    "name": "museum-700.webp",
+    "bytes": 63260,
+    "sha256": "3fc374696646d3b93eb5a032a9947686d87fe0d7d884088460e0c31e35b5e74e"
+  },
+  {
+    "name": "pavilion-1100.webp",
+    "bytes": 106890,
+    "sha256": "5cb46f783247c70849301a559fc7e4eb71c0cb7c478ee9f86ee9c005e93d9d38"
+  },
+  {
+    "name": "pavilion-1800.webp",
+    "bytes": 149736,
+    "sha256": "8349b3ec76673a7178edc7814ff6dee84d8092e2a6444799dd690bc68264e14b"
+  },
+  {
+    "name": "pavilion-420.webp",
+    "bytes": 15468,
+    "sha256": "e6da950b9e7f0d8369bd7d8ad0d16da86492db759b8c5ab138d3d5cc4448458d"
+  },
+  {
+    "name": "pavilion-700.webp",
+    "bytes": 52976,
+    "sha256": "1f2c24852ebf0790343b1c406acf2391c66cef8e03f4fdcc575437d0c553e1c2"
+  },
+  {
+    "name": "portrait1-1100.webp",
+    "bytes": 29094,
+    "sha256": "85eeb4d1d7581f3e4049ae4349b484b27153ff6801d24293c496bccb86684eb3"
+  },
+  {
+    "name": "portrait1-1800.webp",
+    "bytes": 34054,
+    "sha256": "10f8ae31ac84ea9bc2724a7dcfb4627658167ec28360a4816505c914675891a8"
+  },
+  {
+    "name": "portrait1-420.webp",
+    "bytes": 15434,
+    "sha256": "b85dd2eafe3617e0a813c981572f5d00e4aa354b8044107fda65860666bb3d38"
+  },
+  {
+    "name": "portrait1-700.webp",
+    "bytes": 34054,
+    "sha256": "10f8ae31ac84ea9bc2724a7dcfb4627658167ec28360a4816505c914675891a8"
+  },
+  {
+    "name": "portrait2-1100.webp",
+    "bytes": 22328,
+    "sha256": "62a8509ae87c42489a221cd182b1dcc3cfdbafde0855c083c8a48533db5a4399"
+  },
+  {
+    "name": "portrait2-1800.webp",
+    "bytes": 26432,
+    "sha256": "df49cff4d5755f735e0a15f216a8f3edae511566b1b1611c9e961db4e52abe65"
+  },
+  {
+    "name": "portrait2-420.webp",
+    "bytes": 11498,
+    "sha256": "5d88e57c819be40b5218dad8a54ddf4b89b5180870a7e746284a7a658e6522a0"
+  },
+  {
+    "name": "portrait2-700.webp",
+    "bytes": 26432,
+    "sha256": "df49cff4d5755f735e0a15f216a8f3edae511566b1b1611c9e961db4e52abe65"
+  },
+  {
+    "name": "portrait3-1100.webp",
+    "bytes": 63376,
+    "sha256": "3cd1070906f5f6a7610195fe932d35887d734a6df0cb27275fd521dbb6c97a63"
+  },
+  {
+    "name": "portrait3-1800.webp",
+    "bytes": 74116,
+    "sha256": "34ba53b403e181ee8f737a236a49d7d4bd2c0a4364916146e69c829339b4275e"
+  },
+  {
+    "name": "portrait3-420.webp",
+    "bytes": 32368,
+    "sha256": "7c8a60fed0f341ca2725969e5a3cc864d5e0c71d68fbdd5859ac153638ee8573"
+  },
+  {
+    "name": "portrait3-700.webp",
+    "bytes": 74116,
+    "sha256": "34ba53b403e181ee8f737a236a49d7d4bd2c0a4364916146e69c829339b4275e"
+  },
+  {
+    "name": "public-1100.webp",
+    "bytes": 61088,
+    "sha256": "c63239937086603b0242042828853b264d24d992a24418bc86e899d3cb5025cd"
+  },
+  {
+    "name": "public-1800.webp",
+    "bytes": 156110,
+    "sha256": "6648fe449d024ab464ee4bcd51cec9b06d2306b0fe7d5223c86c9857bc5c47cd"
+  },
+  {
+    "name": "public-420.webp",
+    "bytes": 12830,
+    "sha256": "2430fd8fdac952c41dea0b0f1159a9e489809998b1805e5b0d4bc1e0026da35c"
+  },
+  {
+    "name": "public-700.webp",
+    "bytes": 34182,
+    "sha256": "89e63194333adf355f6277343b2290f15115ab6c36ddd2dc39e4e026868f4ac5"
+  },
+  {
+    "name": "studio-1100.webp",
+    "bytes": 63618,
+    "sha256": "33ad1892f1a553c434e645da73eb9951e189615d6e7129ea6ebab124480cab84"
+  },
+  {
+    "name": "studio-1800.webp",
+    "bytes": 149232,
+    "sha256": "33515d1630fabe7d8005752f26f00e80c02442cad5a09152ff3ec2fab19616a9"
+  },
+  {
+    "name": "studio-420.webp",
+    "bytes": 16264,
+    "sha256": "c77cf325acd2087c1837afdaa282204afe1f219b1a3fee6749481be5d31bc01b"
+  },
+  {
+    "name": "studio-700.webp",
+    "bytes": 39060,
+    "sha256": "789ad60398afc11db4edfe0d57eff33f9e03dddeca0149fe68a3e6fe89736550"
+  }
+]
